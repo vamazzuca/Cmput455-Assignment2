@@ -1,0 +1,27 @@
+Script started on 2022-02-13 22:56:47-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cp assignment2.tgz Documents
+]0;alex@alex-VirtualBox: ~[01;32malex@alex-VirtualBox[00m:[01;34m~[00m$ cd Documents
+]0;alex@alex-VirtualBox: ~/Documents[01;32malex@alex-VirtualBox[00m:[01;34m~/Documents[00m$ tar -xvzf assignment2.tgz
+assignment2/
+assignment2/._board.py
+assignment2/gtp_connection.py
+assignment2/._gtp_connection.py
+assignment2/._run_Go0.sh
+assignment2/._Go0.py
+assignment2/a2_public_easy.gtp
+assignment2/a2-sample.gtp
+assignment2/readme.txt
+assignment2/board_util.py
+assignment2/board.py
+assignment2/._a2_public_easy.gtp
+assignment2/Go0.py
+assignment2/._board_util.py
+assignment2/a2_public_medium.gtp
+assignment2/run_Go0.sh
+assignment2/a2_public_hard.gtp
+]0;alex@alex-VirtualBox: ~/Documents[01;32malex@alex-VirtualBox[00m:[01;34m~/Documents[00m$ cd assignment2
+]0;alex@alex-VirtualBox: ~/Documents/assignment2[01;32malex@alex-VirtualBox[00m:[01;34m~/Documents/assignment2[00m$ gogui-regress "python3 Go0.py" a2_ public_easy.gtp
+]0;alex@alex-VirtualBox: ~/Documents/assignment2[01;32malex@alex-VirtualBox[00m:[01;34m~/Documents/assignment2[00m$ exit
+exit
+
+Script done on 2022-02-13 22:58:25-07:00 [COMMAND_EXIT_CODE="0"]
